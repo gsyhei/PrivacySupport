@@ -95,7 +95,7 @@ This agreement is governed by the laws of the People's Republic of China. Any di
 
 If you have any questions about this agreement, please contact us through:
 
-- Email: com279694479@qq.com
+- Email: 279694479@qq.com
 - In-app feedback function
 
 ## 12. Agreement Effectiveness
