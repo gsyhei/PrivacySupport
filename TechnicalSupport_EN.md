@@ -76,7 +76,7 @@ A: No, game data is only stored on the current device.
 If you encounter any issues or have suggestions, please contact us through:
 
 - App Store reviews and feedback
-- Developer email: [279694479@qq.com]
+- Developer email: 279694479@qq.com
 
 ## Update Log
 
